@@ -24,4 +24,4 @@ button.addEventListener("click", function() {
     console.log("The text has been changed.")
 })
 
-// Functions, Voicing and Scoping
+// Functions, Hoisting and Scoping
