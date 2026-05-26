@@ -1,0 +1,12 @@
+button{
+    background-color: lightgray;
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 5px;
+}
+button:active {
+    transform: translateY(3px);
+}
+p{
+    font-size: 18px;
+}
